@@ -1,10 +1,8 @@
 Hi, I’m Adarsh Ravindran. 
 
-I am currently studying masters in Applied Mathematics.
+I have worked as a Business Analyst over two years, with Masters in Applied Mathematics and Bachelors in Chemical Engineering.
 
-I have worked as a Business Analyst over two years, and also graduated in Chemical Engineering.
-
-I'm interested in working on data science, data analytics, nonlinear forecasting methods and machine learning.
+I'm interested in working on machine learning models in nonlinear forecasting.
 
 I am yet to update my github profile with the codes I have worked on, I will be doing so soon.
 
