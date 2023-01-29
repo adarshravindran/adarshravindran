@@ -4,8 +4,6 @@ I have worked as a Business Analyst over two years, with Masters in Applied Math
 
 I'm interested in working on machine learning models in nonlinear forecasting.
 
-I am yet to update my github profile with the codes I have worked on, I will be doing so soon.
-
 You can contact me at adarshravindran29@gmail.com
 
 <!---
