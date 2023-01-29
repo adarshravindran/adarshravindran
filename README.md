@@ -1,8 +1,8 @@
 Hi, I’m Adarsh Ravindran. 
 
-I have worked as a Business Analyst over two years, with Masters in Applied Mathematics and Bachelors in Chemical Engineering.
+I have worked as a Business Analyst over two years. Later pursued my Masters in Applied Mathematics (UHH, Germany) with a Bachelor in Chemical Engineering (NITH, India).
 
-I'm interested in working on machine learning models in nonlinear forecasting.
+My masters thesis focused on nonlinear time series analysis. I'm interested in working on machine learning models in nonlinear forecasting.
 
 You can contact me at adarshravindran29@gmail.com
 
